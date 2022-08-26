@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Commonplaces" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          contingency, dependence, responsibility
         </p>
       </main>
 
